@@ -1,2 +1,2 @@
 # Temperature-Convertor
-Temperature Convertor app developed in Java.
+Temperature Convertor Android app developed in Java.
